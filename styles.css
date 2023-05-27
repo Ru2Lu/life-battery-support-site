@@ -18,6 +18,18 @@ header h1 {
   text-align: center;
 }
 
+/* ヘッダーのコンテンツ */
+.language-content {
+  display: flex;
+  justify-content: right;
+}
+
+/* 言語選択メニューのスタイル */
+#language-select {
+  margin-top: 2rem;
+  margin-right: 2rem;
+}
+
 /* コンテンツ */
 main {
   padding: 2rem;
